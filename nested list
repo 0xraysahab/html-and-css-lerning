@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>nested list</title>
+    </head>
+    <body> 
+        <h1>full stack developement</h1>
+        <ol>
+            <li>
+                <b>front end</b>
+                <ul>
+                    <li>html</li>
+                    <li>css
+                        <ol>
+                            <li>boots trap</li>
+                        </ol>
+                    </li>
+                    <li>java script</li>
+                </ul>
+
+            </li>
+            <li>
+                <b>back end</b>
+                    <ol>
+                        <li>php</li>
+                        <li>database</li>
+                        <li>ajax</li>
+                    </ol>
+            
+            </li>
+
+        </ol>
+    </body>
+    
+</html>
