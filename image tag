@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title> image tag </title>
+    </head>
+    <body> 
+        <image src="/home/ray/Downloads/WhatsApp Image 2023-05-09 at 9.33.10 AM.jpeg" title="testing image" hight="500px" width="400px"></image>
+        
+    </body>
+    
+</html>
