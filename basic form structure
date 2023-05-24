@@ -4,7 +4,8 @@
     </head>
     
     <body>
-        
+        <fieldset>
+        <legend>part1 <legend/>
         <form id="frms">
             name:<input type="text" class="inp" placeholder="enter your name"/> <br/><br/>
     
@@ -36,5 +37,5 @@
             <input type="submit" value="send"/>
             <input type="reset" value="reset"/>
         </form>
-    
+    <fieldset/>
     </body>
