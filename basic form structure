@@ -1,0 +1,40 @@
+<html>
+    <head>
+        
+    </head>
+    
+    <body>
+        
+        <form id="frms">
+            name:<input type="text" class="inp" placeholder="enter your name"/> <br/><br/>
+    
+            addresh:<textarea id="txt"></textarea>
+            <br> <br>
+            gender:
+            <input type="radio" value="m" name="gender"/>male
+            <input type="radio" value="F" name="gender"/>female
+            <input type="radio" value="t" name="gender"/>none
+            <br><br>
+            country:
+            <select>
+                <optiongroup>
+                    <option>select a country</option>
+                    <option value="india">india</option>
+                    <option value="china">china</option>
+                    <option value="usa">usa</option>
+
+                </optiongroup>
+                <option>india</option>
+            </select>
+            <br><br>
+            hobbies:
+            <input type="checkbox" name="hobbies"/>dancing
+            <input type="checkbox" name="hobbies"/>singing
+            <br><br>
+
+
+            <input type="submit" value="send"/>
+            <input type="reset" value="reset"/>
+        </form>
+    
+    </body>
