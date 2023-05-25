@@ -1,0 +1,22 @@
+html>
+    <head></head>
+    <body>
+        <fieldset>
+            <legend>part2</legend>
+            color:
+            <input type="color" name="color"/>
+            <br><br>
+            email:
+            <input type="email" name="email"/>
+            <br><br>
+            age:
+            <input type="number" name="age"/>
+            <br><br>
+            possward:
+            <input type="hidden" name="possward"/>
+            <br><br>
+            submit:
+            <input type="submit" name="submit"/>
+        </fieldset>
+    </body>
+</html>
