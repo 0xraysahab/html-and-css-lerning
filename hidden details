@@ -1,0 +1,14 @@
+<html>
+    <head></head>
+    <body>
+        
+        <details open="">
+            <summary>about me</summary>
+            <p>hi i am ra y sahab patel . and i am doing b.tech from kashi insititute of varanasi .</p>
+            <details>
+                <summary>contact me</summary>
+                <p>9648450695</p>
+            </details>
+        </details>
+    </body>
+</html>
