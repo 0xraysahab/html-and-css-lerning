@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <style>
+            .main{
+             width: 100px;
+             height: 100px;
+             background-color: red;
+             border: 5px solid blue;
+            }
+            .main1{
+            width: 100px;
+             height: 100px;
+             background-color:black;
+             border-bottom: 5px solid green;
+             border-top: 5px solid blue;
+             border-left: 5px solid red;
+             border-right: 5px solid purple;
+             color:white;
+            }
+            .main2{
+             width: 100px;
+             height: 100px;
+             background-color: red;
+             border: 5px dotted blue;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="main">hi how are you friend</div>
+        <br><br>
+        <div class="main1">hi i am ray</div>
+        <br><br>
+        <div class="main2">hi i am ray</div>
+    </body>
+</html>
