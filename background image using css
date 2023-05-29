@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>backgroung image </title>
+        <style type="text/css">
+         .main{
+            width: 1000px;
+            height: 500px;
+            background-color: black;
+            border:5px solid red;
+            margin: auto;
+            padding:5px;
+            color: white;
+            text-align: center;
+            background:url('WhatsApp Image 2023-05-09 at 9.33.10 AM.jpeg');
+         }
+        </style>
+    </head>
+    <body>
+        <div class="main"> hi i am rayjks ffdsskf fweofij sfsdjfkk dsdfsdf  salfsf f sdf sdf sfsdjfkkdjdsf fasjfsf ffsf fsdjdfk sdkf sfsf j fsdf sf jskffssf fsfjssf  fks f ssfskofss fskf sjkf </div>
+    </body>
+</html>
