@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>backgroung image </title>
+        <style type="text/css">
+         .main{
+            width: 80%;
+            height: 500px;
+            background-color: black;
+            border:5px solid red;
+            margin: auto;
+            padding:5px;
+            color: white;
+            text-align: center;
+            background:url('WhatsApp Image 2023-05-09 at 9.33.10 AM.jpeg');
+            background-size: cover;
+            background-attachment: fixed;
+         }
+        </style>
+    </head>
+    <body>
+        <div class="main"> <p>hi i am rayjks ffdsskf fweofij sfsdjfkk dsdfsdf  salfsf f sdf sdf sfsdjfkkdjdsf fasjfsf ffsf fsdjdfk sdkf sfsf j fsdf sf jskffssf fsfjssf  fks f ssfskofss fskf sjkf</p> 
+            <p>hi i am rayjks ffdsskf fweofij sfsdjfkk dsdfsdf  salfsf f sdf sdf sfsdjfkkdjdsf fasjfsf ffsf fsdjdfk sdkf sfsf j fsdf sf jskffssf fsfjssf  fks f ssfskofss fskf sjkf</p>
+            <p>hi i am rayjks ffdsskf fweofij sfsdjfkk dsdfsdf  salfsf f sdf sdf sfsdjfkkdjdsf fasjfsf ffsf fsdjdfk sdkf sfsf j fsdf sf jskffssf fsfjssf  fks f ssfskofss fskf sjkf</p>
+        </div>
+    </body>
+</html>
