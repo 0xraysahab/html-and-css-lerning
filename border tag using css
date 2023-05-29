@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <style>
+            .main{
+             width: 100px;
+             height: 100px;
+             background-color: red;
+             border: 5px solid blue;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="main">hi how are you friend</div>
+    </body>
+</html>
