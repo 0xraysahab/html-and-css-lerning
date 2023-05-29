@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>margin and padding</title>
+        <style type="text/css">
+         #main{
+            width: 300px;
+            height: 300px;
+            background-color: black;
+            border:5px solid red;
+            margin: auto;
+            padding:2px;
+            color: white;
+            text-align: center;
+         }
+        </style>
+    </head>
+    <body>
+        <div id="main"> hi i am ray</div>
+    </body>
+</html>
