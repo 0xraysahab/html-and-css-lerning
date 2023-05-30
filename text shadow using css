@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>background shadow</title>
+        <style>
+            .main{
+                font-size:100px;
+                text-align:center;
+                /* text-shadow:x-axis y-axis blur color*/
+                text-shadow:0px 0px 5px red;
+                
+            }
+        </style>
+    </head>
+    <body>
+        <div class="main"><h5>jai shree Ram.</h5></div>
+    </body>
+</html>
