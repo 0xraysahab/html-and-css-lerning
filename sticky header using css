@@ -1,0 +1,188 @@
+<html>
+    <head>
+        <title>
+            transformation
+        </title>
+        <style>
+            .main{
+                width:200px;
+                height: 200px;
+                border:5px solid red;
+                float: left;
+                text-align: center;
+                
+                }
+                .main1{
+                width:200px;
+                height: 200px;
+                border:5px solid rgb(0, 255, 183);
+                float: left;
+                text-align: center;
+                }
+                .main2{
+                width:200px;
+                height: 200px;
+                border:5px solid rgb(0, 21, 255);
+                float:left;
+                text-align: center;
+                transform:translate(1500px,0);
+                position:fixed;
+                
+                }
+                .header{
+                    width: 100%;
+                    height: 40px;
+                    background-color: blue;
+                    text-align: center;
+                    font-size: 20px;
+                    color:white;
+                    position:sticky;
+                    top: 5px;
+                    
+                }
+
+
+        </style>
+    </head>
+    <body>
+        <div class="header"> home|about|contact</div>
+        <div class="main">1</div>
+        <div class="main1">2</div>
+        <div class="main2">3</div>
+        <div style="clear:both"></div>
+        <div ><p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+        </p>
+        <p>hi i am ray and i am doing b.tech from kashi insititute of varanasi.
+            fekffjsdfjferoffferkferehg erjngffnerjg  we fjeoifn gj8mf  eeltuwe
+            fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r  er g 
+            roireggmhi  i am rau amd i a,m my village name is rampur soier y varansi ff
+            hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+hi i am ray and i am doing b.tech from kashi insititute of varanasi. fekffjsdfjferoffferkferehg erjngffnerjg we fjeoifn gj8mf eeltuwe fefoerjek eeef ermrreet9 jkerfmer erureegjer eroteroj erjree r er g roireggmhi i am rau amd i a,m my village name is rampur soier y varansi ff
+
+        </p>
+        </div>
+    </body>
+</html>
