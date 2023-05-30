@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>
+            transformation
+        </title>
+        <style>
+            .main{
+                width:200px;
+                height: 200px;
+                margin:auto;
+            
+                border:5px solid red;
+                /*scalex:(1.5);
+                scaley:(2);
+                scale:(2)*/
+                transform:scale(1.5);
+                
+            }
+        </style>
+    </head>
+    <body>
+        <div class="main"></div>
+    </body>
+</html>
