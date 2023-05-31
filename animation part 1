@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>animation</title>
+        <style>
+            .main{
+            width:500px;
+            height:500px;
+            border:2px solid red;
+            position: relative;
+            text-align: center;
+            }
+            .add{
+                width: 100px;
+                height: 100px;
+                background-color: red;
+                border:2px;
+                position: absolute;
+                left: 0;
+                top:o;
+                animation-name:add;
+                animation-duration: 10s;
+            }
+            @keyframes add{
+                0%{
+                    top:0;
+                    left:0;
+                    background-color: red;
+                    opacity: 0;
+                }
+                25%{
+                    top:0;
+                    left:400px;
+                    background-color: yellow;
+                    opacity: 1;
+                }
+                50%{
+                    top:400px;
+                    left:400px;
+                    background-color: green;
+                    opacity:1;
+
+                }
+                75%{
+                    top:400px;
+                    left:0;
+                    background-color: blue;
+                    opacity:1;
+                }
+                100%{
+                    top:0;
+                    left:0;
+                    background-color: red;
+                }
+
+            }
+        </style>
+    </head>
+    <body>
+        <div class="main">
+            <div class="add">JAI SHREE RAM</div>
+        </div>
+    </body>
+</html>
