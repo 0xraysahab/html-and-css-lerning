@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>resize</title>
+        <style>
+            .main{
+                width: 200px;
+                height: 200px;
+                border: 2px solid red;
+                padding: 5px;
+                 overflow: scroll;
+                 resize: both;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="main">
+        hi i am ray and who are you/.faweiofhuejfw eiofhwfj fewihfjw fewf whow hfewm w 
+        of ejiejfeejieijafoeifjiafiejieji fewifrej  ef eh freji f wu rhejfef
+        w whuwewijhewfreigjwrfoewkfjwehiwefhe  wf herw w ewihfhwf w f wehwi f 
+        wef  eg ire eori gjoieriehrgin  fwr iherjihew  fwehgw h h w   fewiji
+        foijrewwgjeroijer  w ijgfwr j iowr fw ijwji ew jfwj oi fwihewifwhi 
+        jfsdojifj f ewfj j f w w fj f ew jw f ew fowjfji efwej owe fweojfjweo
+        f refwe fwfhuweoj errji feroj  rijf er0 9 fi woj ifwj reji grej  re jfsdojifj er 
+         r gjrie reoijhr ger fiher  gwerheriw  erg  ero hgergherierwjoi  
+         hi i am ray and who are you/.faweiofhuejfw eiofhwfj fewihfjw fewf whow hfewm w 
+         of ejiejfeejieijafoeifjiafiejieji fewifrej  ef eh freji f wu rhejfef
+         w whuwewijhewfreigjwrfoewkfjwehiwefhe  wf herw w ewihfhwf w f wehwi f 
+         wef  eg ire eori gjoieriehrgin  fwr iherjihew  fwehgw h h w   fewiji
+         foijrewwgjeroijer  w ijgfwr j iowr fw ijwji ew jfwj oi fwihewifwhi 
+         jfsdojifj f ewfj j f w w fj f ew jw f ew fowjfji efwej owe fweojfjweo
+         f refwe fwfhuweoj errji feroj  rijf er0 9 fi woj ifwj reji grej  re jfsdojifj er 
+          r gjrie reoijhr ger fiher  gwerheriw  erg  ero hgergherierwjoi  oer
+          hi i am ray and who are you/.faweiofhuejfw eiofhwfj fewihfjw fewf whow hfewm w 
+          of ejiejfeejieijafoeifjiafiejieji fewifrej  ef eh freji f wu rhejfef
+          w whuwewijhewfreigjwrfoewkfjwehiwefhe  wf herw w ewihfhwf w f wehwi f 
+          wef  eg ire eori gjoieriehrgin  fwr iherjihew  fwehgw h h w   fewiji
+          foijrewwgjeroijer  w ijgfwr j iowr fw ijwji ew jfwj oi fwihewifwhi 
+          jfsdojifj f ewfj j f w w fj f ew jw f ew fowjfji efwej owe fweojfjweo
+          f refwe fwfhuweoj errji feroj  rijf er0 9 fi woj ifwj reji grej  re jfsdojifj er 
+           r gjrie reoijhr ger fiher  gwerheriw  erg  ero hgergherierwjoi  oer
+  
+ 
+        </div>
+    </body>
+
+</html>
